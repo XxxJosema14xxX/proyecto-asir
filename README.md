@@ -3,9 +3,10 @@ Documentación del proyecto de PIMA (1.º ASIR)
 
 La empresa de dedica a la venta de recambios tuning para vehiculos.
 Consta de varios trabajadores (de momento 5) dirigidos en sus direfentes puestos de trabado:
-- Fabricación de piezas
+- Fabricación de piezas.
 - Departamento de chapa y pintura.
-- Embalaje de las piezas
+- Embalaje de las piezas.
+- Asesor de para la ellección de las piezas según el modelo del vehiculo.
 VARIOS DE LOS PROBLEMAS SERIAN:
 - La fata de pagina web para la venta de las piezas online.
 - La falta de internet par ala maquinaria autonoma.
