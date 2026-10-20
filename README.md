@@ -7,6 +7,8 @@ Consta de varios trabajadores (de momento 5) dirigidos en sus direfentes puestos
 - Departamento de chapa y pintura.
 - Embalaje de las piezas.
 - Asesor de para la ellección de las piezas según el modelo del vehiculo.
+
+
 VARIOS DE LOS PROBLEMAS SERIAN:
 - La fata de pagina web para la venta de las piezas online.
 - La falta de internet par ala maquinaria autonoma.
